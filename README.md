@@ -8,3 +8,4 @@
 * Design Patterns
 * Distributed systems
 * Microservices architecture
+* Cloud Technologies (AWS)
